@@ -1,6 +1,8 @@
 # selkceps
 surfing consent w consequences ::: At the core, consent always involves choice, understanding, and willingness.
 
+https://open.spotify.com/playlist/37i9dQZF1FwTs3gXtf5zWW?si=82ccc6f41b3241a4
+
 ## OBS to twitch as Allostasissy
 https://www.twitch.tv/allostasissy
 stuck: blender output isn't consistency transparent. perhaps mistakes in both OBS and Blender were made... fresh look in the am.
