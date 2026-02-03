@@ -7,6 +7,9 @@ wabi-sabi https://www.youtube.com/watch?v=1GQDFnQFMq0
 
 ## Outlook as VeronicaJeanAnderson@outlook.com
 
+## Patreon as VeronicaJeanAnderson 
+* will take photo instead of ODL
+
 ## OBS to twitch as Allostasissy
 https://www.twitch.tv/allostasissy
 stuck: blender output isn't consistency transparent. perhaps mistakes in both OBS and Blender were made... fresh look in the am.
