@@ -7,6 +7,7 @@ surfing consent w consequences ::: At the core, consent always involves choice, 
 
 [Nameless Gradient](https://www.youtube.com/watch?v=VUUzvV__Pck "IRO Vol.1 : The Japanese Philosophy of Color and Imperfection")
 
+[Kindergarten teacher wants kindergartener deported](https://www.youtube.com/watch?v=zJnkikcrHA0 "Kindergarten teacher wants kindergartener deported")
 https://open.spotify.com/playlist/37i9dQZF1FwTs3gXtf5zWW?si=82ccc6f41b3241a4
 
 wabi-sabi https://www.youtube.com/watch?v=1GQDFnQFMq0
