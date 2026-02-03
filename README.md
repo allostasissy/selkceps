@@ -5,8 +5,6 @@ surfing consent w consequences ::: At the core, consent always involves choice, 
 
 [komorebi](https://youtu.be/cnKdrjqtj_c?si=unNGnlxY5jllv1vT "The Beauty of Komorebi: How the Japanese See Dappled Light")
 
-[Nameless Gradient](https://www.youtube.com/watch?v=VUUzvV__Pck "IRO Vol.1 : The Japanese Philosophy of Color and Imperfection")
-
 [Kindergarten teacher wants kindergartener deported](https://www.youtube.com/watch?v=zJnkikcrHA0 "Kindergarten teacher wants kindergartener deported")
 https://open.spotify.com/playlist/37i9dQZF1FwTs3gXtf5zWW?si=82ccc6f41b3241a4
 
@@ -18,7 +16,16 @@ https://youtu.be/cnKdrjqtj_c?si=unNGnlxY5jllv1vT
 
 [ai]: https://openai.com
 # self
+https://www.youtube.com/watch?v=1h-gjkjOcIg
+https://www.youtube.com/watch?v=76WAeeznI40&t=612s
+
+
+
 ## hajime
+[12 habits](https://www.youtube.com/watch?v=qVd-GfRlzoI "12 small Japanese Habits that can transform Your Life in 2025!")
+
+[Nameless Gradient](https://www.youtube.com/watch?v=VUUzvV__Pck "IRO Vol.1 : The Japanese Philosophy of Color and Imperfection")
+
 
 ### Outlook as VeronicaJeanAnderson@outlook.com
 
