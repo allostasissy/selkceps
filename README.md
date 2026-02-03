@@ -14,25 +14,31 @@ wabi-sabi https://www.youtube.com/watch?v=1GQDFnQFMq0
 
 https://youtu.be/cnKdrjqtj_c?si=unNGnlxY5jllv1vT
 
-## Outlook as VeronicaJeanAnderson@outlook.com
+[OpenAI][ai]
 
-## Patreon as VeronicaJeanAnderson 
+[ai]: https://openai.com
+# self
+## hajime
+
+### Outlook as VeronicaJeanAnderson@outlook.com
+
+### Patreon as VeronicaJeanAnderson 
 * will take photo instead of ODL
 
-## OBS to twitch as Allostasissy
+### OBS to twitch as Allostasissy
 https://www.twitch.tv/allostasissy
 stuck: blender output isn't consistency transparent. perhaps mistakes in both OBS and Blender were made... fresh look in the am.
 
-## Ableton LIVE
+### Ableton LIVE
 currently A minor C Major
 AAA.als
 
-## Blender
+### Blender
 use trig to place LoSpec500 in wheel?
 interpolation
 use the next/previous keyframe buttons
 
-## Excel
+### Excel
 professionalism thrives in spreadsheets
 
 # speckles?
