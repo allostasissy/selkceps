@@ -1,9 +1,17 @@
 # selkceps
 surfing consent w consequences ::: At the core, consent always involves choice, understanding, and willingness.
 
+[OpenAI](https://openai.com "OpenAI homepage")
+
+[komorebi](https://youtu.be/cnKdrjqtj_c?si=unNGnlxY5jllv1vT "The Beauty of Komorebi: How the Japanese See Dappled Light")
+
+[Nameless Gradient](https://www.youtube.com/watch?v=VUUzvV__Pck "IRO Vol.1 : The Japanese Philosophy of Color and Imperfection")
+
 https://open.spotify.com/playlist/37i9dQZF1FwTs3gXtf5zWW?si=82ccc6f41b3241a4
 
 wabi-sabi https://www.youtube.com/watch?v=1GQDFnQFMq0
+
+https://youtu.be/cnKdrjqtj_c?si=unNGnlxY5jllv1vT
 
 ## Outlook as VeronicaJeanAnderson@outlook.com
 
