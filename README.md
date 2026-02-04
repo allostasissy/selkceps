@@ -315,3 +315,26 @@ use the next/previous keyframe buttons
 
 [OpenAI][ai]
 [ai]: https://openai.com
+
+
+# legal issues of note:
+
+Ira Davenport
+sSeondoptr1lt9
+h
+0t3atl4fu264t3
+1
+4a48578710a0i1tg3um2f155am90f4
+ ·
+OAR413-215-0000 adoption agency, anyone who makes decisions of best interest or reasonable efforts is defined by Oregon administrative rules as an adoption agency 
+  So the whole juvenile court, CPS and DHS (department of human services) and the Judges who drop the gavle issuing the order to take people's children, and terminating parental rights. 
+   They say if the parents receive any money at all from the adoption "fee" which goes to pay for costs incurred like attorneys fees, court fees for termination of parental rights. 
+   yes, they sell the children, and use the money to pay themselves for terminating the parents' rights. Fortunately for us parents, we are not committing child trafficking by selling our children because we don't see a penny of the adoption fee.
+Instead, young unsuspecting poor mothers are encouraged to seek help from DHS so they go and apply for Title IV E funding from DHS. More commonly known now as FAREWELL oops, I'm dyslexic.. welfare This qualifies the young unsuspecting mother to receive some Laundry money, about$ 10,000.. in total from "temporary assistance for needy families"  the needy part is what qualifies you for the CPS hit list. When you run out of TANF, they are coming for your children. All of them.
+  Every single welfare mom I've ever known has had their children taken for at least 6 months, most for 2 years or more.
+. 3 years of payments, then they make an excuse, take your child hold them hostage temporary assistance for needy families is advanced cash payment for your child. 
+   Look it up in the Oregon administrative rules, the "Child Farewell" program of DHS is just one state owned and operated corporations under "umbrella" rules protecting them to do criminal things like, it's legal for DHS to record children having sex as long as it is during an ongoing investigation, or for educational purposes.. educational purposes? That's just straight up child porn! WTF?!? 
+  So this state corporate power run by government policy that the state dictates in order to get the "best interest" rate of cash return for children by selling them for adoption.. you will never hear a judge say "well, the best interest of this child is with their parents". 
+   In 2016 Judge Tripp ordered CPS to " PUT THOSE CHILDREN BACK WHERE THEY BELONG, WITH THEIR FATHER! AND CLOSED THE CASE " WITH PREJUDICE ". CANT BE REOPENED.. 
+  SAME WAY Judge BROYLES ORDERED MOMS' CASE " CLOSED WITH PREJUDICE " IN 2011
+THIS IS A WARNING DO NOT APPLY FOR TANF. IT IS FAREWELL MONEY ITS BAIT WHILE THEY DO THE PAPERWORK AND USE YOU TO LAUNDER THE MONEY. EVERY VISIT AT DHS HARMS YOUR CHILD. IT IS TRAUMA TO GET JUST A FEW MINUTES WITH YOUR PEOPLE AND BE DRAGGED AWAY AGAIN AND AGAIN. they do this with visits in order to damage your bond with your child. After a while, the excitement wears off, you don't want to go visit cause you only feel worse afterwards.. that is how you prepare a child for a" trauma bond".
