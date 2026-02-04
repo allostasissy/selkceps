@@ -1,74 +1,40 @@
 # selkceps
 surfing consent w consequences ::: At the core, consent always involves choice, understanding, and willingness.
 
-## 
-[CCLI](https://ccli.com/us/en "CCLI")
-[ONE LICENSE](https://onelicense.net/ "one license")
-
-
-
-[OpenAI](https://openai.com "OpenAI homepage")
-
-[komorebi](https://youtu.be/cnKdrjqtj_c?si=unNGnlxY5jllv1vT "The Beauty of Komorebi: How the Japanese See Dappled Light")
-
-[Kindergarten teacher wants kindergartener deported](https://www.youtube.com/watch?v=zJnkikcrHA0 "Kindergarten teacher wants kindergartener deported")
-https://open.spotify.com/playlist/37i9dQZF1FwTs3gXtf5zWW?si=82ccc6f41b3241a4
-
-wabi-sabi https://www.youtube.com/watch?v=1GQDFnQFMq0
-
-https://youtu.be/cnKdrjqtj_c?si=unNGnlxY5jllv1vT
-
-[OpenAI][ai]
-
-[ai]: https://openai.com
 # self
-https://www.youtube.com/watch?v=1h-gjkjOcIg
-https://www.youtube.com/watch?v=76WAeeznI40&t=612s
+## Outlook as VeronicaJeanAnderson@outlook.com
+### Excel
+professionalism thrives in spreadsheets
+## Patreon as VeronicaJeanAnderson 
 
+## todo
+[HouseCamera](https://www.youtube.com/watch?v=1h-gjkjOcIg "How to Setup Tapo Wireless Camera with VIGI NVR")
+[comeuppance](https://www.youtube.com/watch?v=76WAeeznI40&t=612s "A Video About A Nasty Man Who Receives His Comeuppance")
 
-
-## hajime
-[12 habits](https://www.youtube.com/watch?v=qVd-GfRlzoI "12 small Japanese Habits that can transform Your Life in 2025!")
-
-[Nameless Gradient](https://www.youtube.com/watch?v=VUUzvV__Pck "IRO Vol.1 : The Japanese Philosophy of Color and Imperfection")
-
-
-### Outlook as VeronicaJeanAnderson@outlook.com
-
-### Patreon as VeronicaJeanAnderson 
-* will take photo instead of ODL
+# hajime
+*[12 habits](https://www.youtube.com/watch?v=qVd-GfRlzoI "12 small Japanese Habits that can transform Your Life in 2025!")
+*[Nameless Gradient](https://www.youtube.com/watch?v=VUUzvV__Pck "IRO Vol.1 : The Japanese Philosophy of Color and Imperfection")
 
 ### OBS to twitch as Allostasissy
 https://www.twitch.tv/allostasissy
 stuck: blender output isn't consistency transparent. perhaps mistakes in both OBS and Blender were made... fresh look in the am.
 
-### Ableton LIVE
+#### streaming legally 
+[CCLI](https://ccli.com/us/en "CCLI")
+[ONE LICENSE](https://onelicense.net/ "one license")
+
+#026
+## Ableton LIVE
 currently A minor C Major
 AAA.als
-
-### Blender
+## Blender
 use trig to place LoSpec500 in wheel?
 interpolation
 use the next/previous keyframe buttons
 
-### Excel
-professionalism thrives in spreadsheets
-
-
-#026
-table using 026.css
-
-
 # speckles?
-
-
-# 026
-
-## 
-
-###
-
 #### 026.css LoSpec 500 42 colors.
+
 /* =====  ==== */
 /* ===== Group Yellows 55°-26° ===== */
 .zer1-yellow { color: hsl(55,78%,84%); } 
@@ -338,3 +304,14 @@ table using 026.css
     </tr>    
   </tbody>
 </table>
+
+# file me
+*[OpenAI](https://openai.com "OpenAI homepage")
+*[komorebi](https://youtu.be/cnKdrjqtj_c?si=unNGnlxY5jllv1vT "The Beauty of Komorebi: How the Japanese See Dappled Light")
+*[Kindergarten teacher wants kindergartener deported](https://www.youtube.com/watch?v=zJnkikcrHA0 "Kindergarten teacher wants kindergartener deported")
+*https://open.spotify.com/playlist/37i9dQZF1FwTs3gXtf5zWW?si=82ccc6f41b3241a4
+*wabi-sabi https://www.youtube.com/watch?v=1GQDFnQFMq0
+*https://youtu.be/cnKdrjqtj_c?si=unNGnlxY5jllv1vT
+
+[OpenAI][ai]
+[ai]: https://openai.com
