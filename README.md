@@ -1,6 +1,12 @@
 # selkceps
 surfing consent w consequences ::: At the core, consent always involves choice, understanding, and willingness.
 
+## 
+[CCLI](https://ccli.com/us/en "CCLI")
+[ONE LICENSE](https://onelicense.net/ "one license")
+
+
+
 [OpenAI](https://openai.com "OpenAI homepage")
 
 [komorebi](https://youtu.be/cnKdrjqtj_c?si=unNGnlxY5jllv1vT "The Beauty of Komorebi: How the Japanese See Dappled Light")
