@@ -5,6 +5,75 @@ surfing consent w consequences ::: At the core, consent always involves choice, 
 ## Outlook as VeronicaJeanAnderson@outlook.com
 ### Excel
 professionalism thrives in spreadsheets
+
+### Word Lists
+https://share.google/aimode/Lx5khe5deu36qnzUl
+
+''''
+english word list by grade
+English word lists vary based on whether you are looking for high-frequency sight words, academic vocabulary, or spelling lists. 
+Primary Grade Word Lists (K-5)
+For early learners, focus is typically on Dolch or Fry sight words—the most common words in English literature. 
+Kindergarten: Focus on 50–100 basic sight words like a, the, in, up, go, see.
+1st Grade: Introduces simple 3-4 letter words and 100 high-frequency words such as all, each, many, then.
+2nd Grade: Transitions to basic academic words and "tricky" words like because, through, animal, house.
+3rd–5th Grade: Shifts toward "Tier 2" academic vocabulary—words used across subjects but rarely in casual speech—such as additional, obvious, confirm, investigate, and debris. 
+Middle & High School Word Lists (6-12)
+Curricula at this level prioritize words found in classic literature and standardized tests like the SAT/ACT. 
+Middle School (6-8): Focuses on words that denote precision, like colossal, discipline, meticulous, and remnant.
+High School (9-12): Moves into advanced, nuanced vocabulary for professional and literary contexts, including abjure, evanescent, frugal, longevity, and conundrum. 
+Recommended Resources by Grade
+Vocabulary.com Lists by Grade: Offers curated lists for every grade level from 1st through 12th, often based on common textbooks.
+GreatSchools Vocabulary Word Lists: Provides age-appropriate "big" words for each grade.
+Flocabulary "Word Up" Project: Categorizes core vocabulary into color-coded levels for Kindergarten through 8th Grade.
+SpellQuiz Printable Lists: Specifically targets spelling proficiency for grades 1–12. 
+Are you looking for a specific grade level or a particular type of word list (e.g., spelling vs. reading)?
+
+undefined
+undefined
+undefined
+21 sites
+Fry 1000 Instant Words: FREE Flash Cards and Word Lists For Teachers
+The First 100 words should be mastered by Grade 1. The Second 100 Words should be mastered by Grade 2. The Third 100 Words should ...
+
+Unique Teaching Resources
+
+The Basic Spelling Vocabulary List | Reading Rockets
+Table_content: header: | Grade 1 | | | row: | Grade 1: a all am* and* at ball be bed big book box boy* but came* can* car cat come...
+
+Reading Rockets
+
+Vocabulary words for 1st through 12th graders - GreatSchools
+Apr 24, 2025 — Academic vocabulary lists by grade level. 1st grade word list. Here are the age-appropriate “big” words your first graders should ...
+
+GreatSchools
+
+Show all
+Japan lists kanji by grade they are taught. I am looking for the equivalent for English, preferably USA. please give me a list of words separated by grade
+Unlike Japan’s Kyōiku Kanji, which are regulated by the Ministry of Education, the United States has no single "official" federal word list. Instead, vocabulary is divided into sight words (reading fluency), spelling lists, and academic vocabulary (subject-based), which vary by state and curriculum. 
+Below are the most widely recognized US standards for grade-level vocabulary:
+1. Sight Words (Grades K–3) 
+These lists, such as the Dolch Word List, focus on high-frequency words that children should recognize by sight to achieve reading fluency. 
+Kindergarten: a, and, away, big, blue, can, come, down, find, for, funny, go, help, here, I, in, is, it, jump, little, look, make, me, my, not, one, play, red, run, said, see, the, three, to, two, up, we, where, yellow, you.
+1st Grade: after, again, an, any, as, ask, by, could, every, fly, from, give, going, had, has, her, him, his, how, just, know, let, live, may, of, old, once, open, over, put, round, some, stop, take, thank, them, then, think, walk, were, when.
+2nd Grade: always, around, because, been, before, best, both, buy, call, cold, does, don't, fast, first, five, found, gave, goes, green, its, made, many, off, or, pull, read, right, sing, sit, sleep, tell, their, these, those, upon, us, use, very, wash, which, why, wish, work, would, write, your.
+3rd Grade: about, better, bring, carry, clean, cut, done, draw, drink, eight, fall, far, full, got, grow, hold, hot, if, keep, kind, laugh, light, long, much, myself, never, only, own, pick, seven, shall, show, six, small, start, ten, today, together, try, warm. 
+2. Middle School Academic Vocabulary (Grades 6–8)
+At this stage, lists shift toward Tier 2 words—general academic terms used across different subjects like science and history. 
+6th Grade: accurate, analyze, contrast, evaluate, factor, identify, interpret, occur, respond, structure.
+7th Grade: abbreviate, conspicuous, detest, frugal, hilarity, meticulous, reprehensible, stagnate, succumb.
+8th Grade: absolve, bamboozle, crucial, dispatch, fallacy, inevitable, onslaught, rebuff, strident. 
+3. High School & SAT/ACT Preparation (Grades 9–12)
+High school lists focus on complex, nuanced words for advanced reading and college entrance exams. 
+9th–10th Grade: aberration, brevity, camaraderie, delineate, ephemeral, frugal, iconoclast, juxtaposition, longevity, narcissist.
+11th–12th Grade: abjure, anathema, circumnavigate, deleterious, enigma, immutable, interminable, metamorphosis, paradigm, revere, synopsis, ubiquitous. 
+Where to Find Full Lists
+For Schools: The Flocabulary "Word Up" Project provides research-based academic lists for Grades K–8.
+For State Standards: The Texas Education Agency (TEA) and Berkeley Unified School District offer comprehensive high-frequency and academic lists used in public schools. 
+Would you like a list for a specific grade level or a printable PDF of these words?
+
+''''
+
 ## Patreon as VeronicaJeanAnderson 
 
 ## todo
