@@ -2,6 +2,7 @@
 surfing consent w consequences ::: At the core, consent always involves choice, understanding, and willingness.
 
 # self
+[compassion](https://www.youtube.com/watch?v=6WqUo1G8PpA&t=213s "help")
 ## Outlook as VeronicaJeanAnderson@outlook.com
 ### Excel
 professionalism thrives in spreadsheets
